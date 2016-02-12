@@ -1,0 +1,30 @@
+_repo: Politische-Schriften-und-andere-Nachtrage-zu-seinen-Werken_50979
+contributor:
+  creator:
+    editor:
+      agent_name: Köpke, Rudolf
+      gutenberg_agent_id: '46178'
+      url: http://www.gutenberg.org/2009/agents/46178
+creator:
+  author:
+    agent_name: Kleist, Heinrich von
+    aliases:
+    - Kleist, Bernd Heinrich Wilhelm von
+    - Von Kleist, Heinrich
+    - Kleist, H. V. (Heinrich von)
+    birthdate: 1777
+    deathdate: 1811
+    gutenberg_agent_id: '2127'
+    url: http://www.gutenberg.org/2009/agents/2127
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_von_Kleist
+description: ''
+gutenberg_issued: '2016-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50979'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Politische Schriften und andere Nachträge zu seinen Werken
+url: http://www.gutenberg.org/ebooks/50979
